@@ -175,3 +175,6 @@ body{
     25px 30px 20px rgba(1,180,255,0.1),
     inset -10px -10px 15px rgba(255,255,255,0.5);
 }
+.btns:hover{
+    border-radius: 50%;
+}
