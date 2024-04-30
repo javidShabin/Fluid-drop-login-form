@@ -6,3 +6,17 @@
     box-sizing: border-box;
     font-family: 'Kanit', sans-serif;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #eff0f4;
+}
+.container{
+    position: relative;
+    left: -80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
